@@ -12,19 +12,19 @@ body {
     color: #5dbcd2;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
+    
 }
 
-.navbar-light .navbar-brand {
+.btn-primary {
     color: white;
+    background: #5dbcd2;
 }
-
-
 
 .title {
     width: 100px;
     height: 50px;
     line-height: 50px;
-    background: white; 
+    background-color: white; 
     text-align: center;
     font-size: 15.5px;
     
