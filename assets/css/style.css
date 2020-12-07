@@ -4,8 +4,15 @@ body {
 }
 .navbar-brand {
     background: #5dbcd2; 
-    font-style: georgia bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 } 
+
+.display-12 { 
+    color: #5dbcd2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
 
 .navbar-light .navbar-brand {
     color: white;
