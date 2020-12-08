@@ -6,8 +6,7 @@ body {
     background: #5dbcd2; 
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    
-} 
+    } 
 
 .display-12 { 
     color: #5dbcd2;
@@ -33,7 +32,5 @@ body {
 .content {
     min-height: calc(100vh - 70px);
   }
-  .footer {
-    height: 50px;
-    background: blue;
-  }
+  
+ 

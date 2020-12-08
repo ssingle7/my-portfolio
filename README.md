@@ -1,4 +1,10 @@
-# my-portfolio
+# My-portfolio
+
+The My portfolio project was an opportunity to demonstrate the tools that were learned via Bootstrap and CSS to create a mobile responsive portfolio. The objective was to create a responsive design and to ensure that the web applications render well on all devices in the window and screen sizes. Bootstrap CSS was the primary framework used to achieve this responsive layout. 
+
+-Applied the Bootstrap navbar and jumbotron framework ensure the navbar was consistent across all files and framework for the
+
+-
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
