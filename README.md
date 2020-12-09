@@ -23,7 +23,7 @@ This application contains several nav links, a container, and a jumbotron. When 
 
 ### Credits
 
-* Use Bootstrap's grid system, (containers, rows, and columns).
+* Used Bootstrap's grid system, (containers, rows, and columns).
 
 * W3 Schools 
 
