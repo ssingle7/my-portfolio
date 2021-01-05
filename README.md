@@ -32,7 +32,7 @@ This application contains several nav links, a container, and a jumbotron. When 
 
 ### Moc Up
 
-![My Portfolio](Portfolio3.PNG)
+![My Portfolio](My Portfolio.PNG)
 
 Deployed Site:https://ssingle7.github.io/my-portfolio/
 
