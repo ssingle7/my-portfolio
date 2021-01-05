@@ -35,3 +35,7 @@ body {
   height: 300px;
   width: 300px;
 }
+
+.card-body {
+  padding-right: 25px;
+}
