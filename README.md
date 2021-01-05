@@ -31,9 +31,11 @@ This application contains several nav links, a container, and a jumbotron. When 
 
 * Study Groups 
 
+
+
 ### License 
 
-MIT License
+
 
 Copyright (c) [2020] [Selena Singleton]
 
