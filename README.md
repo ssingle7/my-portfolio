@@ -1,41 +1,42 @@
 # My-portfolio
 
-The My portfolio project was an opportunity to demonstrate the tools that were learned via Bootstrap and CSS to create a mobile responsive portfolio. The objective was to create a responsive design and to ensure that the web applications render well on all devices in the window and screen sizes. Bootstrap CSS was the primary framework used to achieve this responsive layout. 
+The My portfolio project was an opportunity to demonstrate the tools that were learned via Bootstrap and CSS to create a mobile responsive portfolio. The objective was to create a responsive design and to ensure that the web applications render well on all devices in the window and screen sizes. Bootstrap CSS was the primary framework used to achieve this responsive layout.
 
 -Applied the Bootstrap navbar and jumbotron framework ensure the navbar was consistent across all files and framework for the
 
--Duplicated the navbar once ensuring that it functioned properly on the initial index.html file 
+-Duplicated the navbar once ensuring that it functioned properly on the initial index.html file
 
--Added the correct style to each of the files and added the supporting images required 
+-Added the correct style to each of the files and added the supporting images required
 
--Ensured all pages were responsive at respective break points 
+-Ensured all pages were responsive at respective break points
 
 -Added bio information and supporting link for access to professional social media site.
 
 # Installation
 
-To run this locally, fork the repo, clone it, and open the 'index.html' in your default browser.  
-
+To run this locally, fork the repo, clone it, and open the 'index.html' in your default browser.
 
 ## Usage
 
-This application contains several nav links, a container, and a jumbotron. When clicked, the user should be taken to that section of the page. 
+This application contains several nav links, a container, and a jumbotron. When clicked, the user should be taken to that section of the page.
 
 ### Credits
 
-* Used Bootstrap's grid system, (containers, rows, and columns).
+- Used Bootstrap's grid system, (containers, rows, and columns).
 
-* W3 Schools 
+- W3 Schools
 
-* 02-ask-the-class
+- 02-ask-the-class
 
-* Study Groups 
+- Study Groups
 
+### Moc Up
 
+![My Portfolio](Portfolio3.PNG)
 
-### License 
+Deployed Site:https://ssingle7.github.io/my-portfolio/
 
-
+### License
 
 Copyright (c) [2020] [Selena Singleton]
 
